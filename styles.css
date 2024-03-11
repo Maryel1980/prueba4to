@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-size: 20px;
+    background-color: orange;
+  }
+  
+  .sp, .di {
+    margin: 40px;
+  }
+  img {
+    width: 40%;
+  }
